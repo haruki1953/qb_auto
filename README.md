@@ -23,12 +23,12 @@ python ./bangumi-update.py "$torrent_name" "$content_dir" "$root_dir" "$save_dir
 
 ## update.json 数据类型
 ```ts
-interface FileUpdateInfo {
+interface BgmUpdateInfo {
 	fileName: string
 	filePath: string
 	fileSize: number
 	fileHash: string
-	fileDate：string
+	fileDate: string
 }
 ```
 
