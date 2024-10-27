@@ -28,7 +28,7 @@ interface FileUpdateInfo {
 	filePath: string
 	fileSize: number
 	fileHash: string
-	fileDate：string
+	fileDate: string
 }
 ```
 

@@ -3,9 +3,9 @@ import json
 from datetime import datetime
 
 # update.json 文件，保存番剧更新信息，为数组
-update_json_file = './test/update.json'
+update_json_file = '/www/wwwroot/pan.sakiko.top/home/data/update.json'
 # config.json 文件，bangumi-list-vue3 番剧小窝的 config 文件，将在其中bgmLastUpdate字段保存当前时间
-config_json_file = './test/config.json'
+config_json_file = '/www/wwwroot/pan.sakiko.top/home/data/config.json'
 # update_json数组长度限制
 update_limit_length = 20
 
