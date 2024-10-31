@@ -1,7 +1,7 @@
 github: https://github.com/haruki1953/qb_auto
 
 项目背景
-- https://sakiko.top/vps-auto-bangumi
+- https://sakiko.xlog.app/vps-auto-bangumi
 - https://github.com/haruki1953/bangumi-list-vue3
 - https://github.com/haruki1953/crawl_post_generator
 
