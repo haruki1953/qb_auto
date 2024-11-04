@@ -158,3 +158,4 @@ echo -e "-------------------------------------------------------------\n" >> ${l
 # 调用 Python 脚本并传递参数
 # python3
 python ./bangumi-update.py "$torrent_name" "$content_dir" "$root_dir" "$save_dir" "$files_num" "$torrent_size" "$file_hash"
+python ./bangumi-rss.py
